@@ -9,7 +9,7 @@ npm start
 Dynamicly solution should be always prefered, then you will never worry about the flexibility and expansibility in the future.
 
 - Jsx > template
-- Css-In-Js > css, less ,saas, bem...
+- Css-In-Js > tailwind, css, less ,saas, bem...
 - .js > .json, .yaml, .ini
 
 ## Only partly follow the Design draft
