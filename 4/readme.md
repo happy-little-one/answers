@@ -1,0 +1,1 @@
+JavaScript is a single thread language, when javascript actuator meet an async function, it add the function to the async queue and keep running util all the sync codes ara completed. so theserver_echo will be undefined in this program.
